@@ -4,6 +4,7 @@
 <br><br>
 
 # Smithery CLI
+- https://github.com/smithery-ai/cli
 
 <details><summary>Click to expand..</summary>
 
