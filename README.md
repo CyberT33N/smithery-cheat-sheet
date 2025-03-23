@@ -5,6 +5,7 @@
 
 # Smithery CLI
 - https://github.com/smithery-ai/cli
+- **Will start the MCP cloud bases at Smithery**
 
 <details><summary>Click to expand..</summary>
 
